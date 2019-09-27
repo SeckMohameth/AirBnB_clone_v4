@@ -1,6 +1,11 @@
 <img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
-# AirBnB Clone: Phase # 3
+# AirBnB Clone: Phase # 4
+
+September 27, 2019
+Moahmeth Seck and Mia Morton working on final step of the Abnb clone project
+0x06. AirBnB clone - Web dynamic
+
 
 : API with Swagger
 
@@ -218,7 +223,7 @@ github repo
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * Mohameth Seck, [SeckMohameth](https://github.com/seckMohameth) | [@seck_mohameth](https://twitter.com/seck_mohameth)
-* Mia Morton, [DracoMindz](https://github.com/DracoMindz) | [@MortonMindz] (https://twitter.com/MortonMindz)
+* Mia Morton, [DracoMindz](https://github.com/DracoMindz) | [@MortonMindz](https://twitter.com/MortonMindz)
 
 ## License
 
