@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/** Holberton Styles
+ * ------ Header
+ */
+
+#api_status {
+    float: right;
+    margin-right: 30px;
+    margin-left: 20px;
+    boarder-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #CCCCCC
+}
+
+div#api_status.available {
+    background-color: #FF545F;
+}
